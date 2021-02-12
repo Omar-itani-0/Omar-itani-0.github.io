@@ -1,9 +1,9 @@
-<!DOCTYPE html>
 <html lang="en-au" dir="ltr" >
 <head>	
 <style>
 * {
-color:cyan;
+color:red;
+background-color:cyan;
 
 	}
 </style>
@@ -11,9 +11,9 @@ color:cyan;
 
 <body>
 
-<p>Hello <b>person</b> reading this!
-<p>This is text 
-<p>More text
+<h1>Hello <b>person</b> reading this!
+<h2>This is text 
+<h3>More text
 
 </body>
 
